@@ -75,5 +75,3 @@ Segurança e Conformidade: Garantia de que os dados estão protegidos e em confo
 
 ## Como Contribuir
 Se você deseja contribuir para este repositório, sinta-se à vontade para abrir issues ou enviar pull requests. Todas as contribuições são bem-vindas!
-
-Licença
